@@ -1,0 +1,4 @@
+this is my newfile using VIM editor
+
+I've heard a lot about the power of this editor, and hopefully I'll prioritise the time to use it one day. For now, I think sublime is still the tool of choice..
+
